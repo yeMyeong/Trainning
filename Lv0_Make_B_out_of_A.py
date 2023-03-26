@@ -21,3 +21,7 @@ else:
 print(answer)
 #after = after.replace("o", "")
 #print(after)
+
+# 다른 풀이
+# 이게 시간복잡도가 더 낮을 듯하다
+
